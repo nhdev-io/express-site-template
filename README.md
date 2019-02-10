@@ -9,3 +9,8 @@
 *HTML Preprocessor*: Pug
 
 For bootstrapping express sites. 
+
+To start testing server
+```
+npm start
+```
