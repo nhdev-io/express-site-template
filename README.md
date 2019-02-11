@@ -1,7 +1,6 @@
 # nhDev.io Express template
 
-## Specifications
-#### Platform
+### Specifications
 **Server**: node/express
 
 **CSS Preprocessor**: SASS
