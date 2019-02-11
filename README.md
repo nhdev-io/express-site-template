@@ -2,11 +2,11 @@
 
 ## Specifications
 #### Platform
-*Server*: node/express
+**Server**: node/express
 
-*CSS Preprocessor*: SASS
+**CSS Preprocessor**: SASS
 
-*HTML Preprocessor*: Pug
+**HTML Preprocessor**: Pug
 
 For bootstrapping express sites. 
 
