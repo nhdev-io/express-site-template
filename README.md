@@ -16,7 +16,6 @@ npm update
 
 To start testing server
 ```
-npm update
 npm start
 ```
 
