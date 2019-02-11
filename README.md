@@ -12,5 +12,6 @@ For bootstrapping express sites.
 
 To start testing server
 ```
+npm update
 npm start
 ```
