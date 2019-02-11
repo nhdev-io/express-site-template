@@ -39,3 +39,6 @@ You can then use the variable in the pug template
 ```
 h2 Step #{step}| Worksheets
 ```
+
+*Further Notes*
+For consistency's sake, use the [Airbnb JS style guide](https://github.com/airbnb/javascript) and eslint plugin. 
