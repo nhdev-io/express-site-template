@@ -1,6 +1,6 @@
 $font-stack:    Roboto, Helvetica, sans-serif;
 $primary-color: rgb(38, 38, 38);
-
+@import 'flex';
 body {
   font: 100% $font-stack;
   color: $primary-color;
